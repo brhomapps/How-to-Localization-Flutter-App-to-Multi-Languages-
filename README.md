@@ -5,11 +5,12 @@ In this tutorial video we will learn  how to localization flutter app to multi-l
 Also, this application is persisting the selected used shared_preferences package with button switcher between languages
 
 
-Video tutorial:
+# Video tutorial:
 
 https://youtu.be/49rCqi-rkTE
 
- If you want to get the source code, please subscribe to the channel, comment and send the video link to my email
+# if you want source code :
+please subscribe in my channel and send me the link of video to my Email:
 brhomapps@gmail.com
 
 Our site :
